@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title> 
+            Khoa Công Ngh? Thông Tin - Tru?ng Ð?i H?c Th?y L?i 
+        </title>
+        <style>
+                body { background-color:white;}
+                h1 {color: aquamarine }
+                p { color: black }
+            </style>
+    </head>
+    <body>
+        <header> <hr>
+            <center>
+                <h1 style=" background-color : blue">
+                    <div>
+                        <p style=" color : white; font-size : 17px">
+                        Tru?ng d?i h?c Th?y L?i | Gi?i thi?u | Nghiên c?u khoa h?c | Login | Register | Ngôn ng?: <img src="icon-lang-en.png" alt=""> <img src="icon-lang-vi.png" alt="">
+                        <label for=" "> <input type="text">
+                        </label>
+                        
+                        Tìm ki?m
+                        </p>
+                        
+                    </div>
+
+                 </h1>
+            </center>
+            
+            <center>
+                <img src=" logo.jpg" alt="">
+                <div style=" float: left ">
+                </div>
+                <h1 style=" background-color : white ">
+                    <p style = " color: black; font-size: 20px">
+                        <a href=" http://cse.tlu.edu.vn/" > Trang ch? </a> | Gi?i thi?u | Nghiên c?u khoa h?c | Ðào t?o | B? môn-Trung tâm | Sinh viên | Tin t?c | Thông báo | Liên h? 
+                    
+                    </p>
+                </h1>
+                <img src=" sslab.jpg" alt=""; style="width:70%;">>
+                <div style=" float: left">
+                </div>
+                <img src="Doc sach 1.jpg" alt="">
+
+            </center>
+        </header>
+    </body>
+    
+    
+</html>
